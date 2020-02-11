@@ -1,1 +1,3 @@
 # mind-notes
+## Redis
+## MySQL
